@@ -1,12 +1,11 @@
-### Hi👋 I'm Muhammad Arslan
+### Hi👋 I'm Muhammad Irfan
 
-#### I'm Flutter Application Software Developer 🍃
+#### I'm Senior Software Engineer 🍃
 
 
-![I'm Flutter Application Software Developer](https://github.com/marslanflutterdev1/marslanflutterdev1/blob/main/Screenshot%202024-08-19%20204627.png)
+![I'm Senior Software Developer](https://github.com/marslanflutterdev1/marslanflutterdev1/blob/main/Screenshot%202024-08-19%20204627.png)
 
-I’m Muhammad Arslan👋, a passionate Flutter Developer with over a year of hands-on experience creating stunning and functional apps👨‍💻. Having recently upgraded my skills with a comprehensive enhanced from Tech Idara Karachi, I specialize in Flutter ❤️ UI, Firebase, API integration, and state management. Let’s connect to turn your app ideas into reality! 🚀.
-If you have feel free available job🏢 then Let's innovate me ❤️. 
+Senior Software Engineer and Full-Stack Developer with 5+ years of experience in designing and delivering enterprise-grade applications using ASP.NET Core, Angular, and SQL Server. Proven expertise in full-stack development, database optimization, CI/CD automation, Azure deployments, and performance testing. Strong background in release management and DevOps practices, with a track record of improving system scalability, reliability, and deployment efficiency. Passionate about building high-quality, scalable solutions in fast-paced environments
 ###
 
 <div align="left">
