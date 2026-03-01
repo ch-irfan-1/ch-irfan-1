@@ -82,14 +82,7 @@ If you have feel free then Let's innovate me ❤️.
 </br>
 
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch-irfan-1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch-irfan-1&show_icons=true&theme=tokyonight)
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-irfan-1&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-irfan-1&layout=compact&theme=tokyonight)
 
