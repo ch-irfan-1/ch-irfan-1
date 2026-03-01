@@ -39,7 +39,7 @@ If you have feel free then Let's innovate me ❤️.
     </br>
 <div align="left">
   <a href="https://www.linkedin.com/in/chmuhammadirfan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=marslanflutterdev1&logo=linkedin&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=mirfandev1&logo=linkedin&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="+923007841407" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="whatsapp logo"  />
