@@ -82,27 +82,5 @@ If you have feel free then Let's innovate me ❤️.
 </br>
 
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ch-irfan-1&show_icons=true&theme=tokyonight)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ch-irfan-1?cardType=octocat&theme=github-dark&fontFamily=Andada%20Pro&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ch-irfan-1&layout=compact&theme=tokyonight)
-<p>
-<picture>
-  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg">
-</picture>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,azure,jenkins,github" />
-</p>
