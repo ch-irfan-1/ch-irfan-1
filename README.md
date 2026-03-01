@@ -83,5 +83,6 @@ If you have feel free then Let's innovate me ❤️.
 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ch-irfan-1/contributions?format=svg&private=false)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ch-irfan-1)](https://github.com/ch-irfan-1/github-readme-stats)
 
 
