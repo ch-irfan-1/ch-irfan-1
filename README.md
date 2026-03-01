@@ -7,7 +7,6 @@
 
 Hi!👋 I'm Muhammad Irfan Senior Software Engineer with 5+ years of experience in ASP.NET Core, Angular, and SQL Server, building scalable enterprise applications. Skilled in REST APIs, SQL optimization, CI/CD pipelines, Azure deployments, and performance tuning. Passionate about clean architecture, efficient systems, and delivering high-quality full-stack solutions.
 If you have feel free then Let's innovate me ❤️.
-</br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
@@ -37,7 +36,6 @@ If you have feel free then Let's innovate me ❤️.
 - 💬 Ask me about I'm Senior Software Engineer. 
 - 📫 How to reach me: https://www.linkedin.com/in/chmuhammadirfan/ 
 - ⚡ Fun fact: I'm Industrial Human In Technology.
-  </br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chmuhammadirfan/" target="_blank">
