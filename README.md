@@ -36,7 +36,6 @@ If you have feel free then Let's innovate me ❤️.
 - ⚡ Fun fact: I'm Industrial Human In Technology.
   </br>
 
-    </br>
 <div align="left">
   <a href="https://www.linkedin.com/in/chmuhammadirfan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=mirfandev1&logo=linkedin&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="linkedin logo"  />
