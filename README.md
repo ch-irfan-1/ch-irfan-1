@@ -103,3 +103,6 @@ If you have feel free then Let's innovate me ❤️.
   <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg">
 </picture>
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,azure,jenkins,github" />
+</p>
